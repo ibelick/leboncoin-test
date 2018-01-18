@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: App should match its empty snapshot 1`] = `
+<div
+  className="app"
+>
+  <h1>
+    Leboncoin test
+  </h1>
+  <ul
+    className="message-list"
+  >
+    <li
+      className="message"
+    >
+      <p>
+        Sed fruatur sane hoc solacio atque hanc insignem ignominiam, quoniam uni praeter se inusta sit, putet esse leviorem, dum modo, cuius exemplo se consolatur, eius exitum expectet, praesertim cum in Albucio nec Pisonis libidines nec audacia Gabini fuerit ac tamen hac una plaga conciderit, ignominia senatus.
+      </p>
+      <p
+        className="visibility"
+      >
+        private
+      </p>
+    </li>
+    <li
+      className="message"
+    >
+      <p>
+        Post quorum necem nihilo lenius ferociens Gallus ut leo cadaveribus pastus multa huius modi scrutabatur. quae singula narrare non refert, me professione modum, quod evitandum est, excedamus.
+      </p>
+      <p
+        className="visibility"
+      >
+        private
+      </p>
+    </li>
+    <li
+      className="message"
+    >
+      <p>
+        Nunc vero inanes flatus quorundam vile esse quicquid extra urbis pomerium nascitur aestimant praeter orbos et caelibes, nec credi potest qua obsequiorum diversitate coluntur homines sine liberis Romae.
+      </p>
+      <p
+        className="visibility"
+      >
+        public
+      </p>
+    </li>
+  </ul>
+  <form
+    className="add-message"
+    onSubmit={[Function]}
+  >
+    <label>
+      <textarea
+        id="text"
+        onChange={[Function]}
+        placeholder="Message"
+        value=""
+      />
+    </label>
+    <div
+      className="end-form"
+    >
+      <label>
+        Visibility:
+        <a
+          onClick={[Function]}
+        >
+           
+          public
+        </a>
+      </label>
+      <input
+        className="btn"
+        type="submit"
+        value="Add message"
+      />
+    </div>
+  </form>
+</div>
+`;

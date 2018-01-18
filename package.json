@@ -1,0 +1,31 @@
+{
+  "name": "leboncoin-test",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "babel-jest": "^22.1.0",
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "enzyme-to-json": "^3.3.0",
+    "jest": "^22.1.2",
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0",
+    "react-addons-test-utils": "^15.6.2",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.0.17",
+    "react-test-renderer": "^16.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "babel-jest": "^22.1.0",
+    "enzyme": "^3.3.0",
+    "enzyme-to-json": "^3.3.0",
+    "jest": "^22.1.2",
+    "react-addons-test-utils": "^15.6.2"
+  }
+}

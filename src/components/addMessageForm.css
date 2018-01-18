@@ -1,0 +1,28 @@
+.add-message {
+  display: flex;
+  flex-direction: column;
+}
+
+.end-form {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+}
+
+textarea {
+  border-radius: 4px;
+  padding: 5px;
+  width: 540px;
+  height: 70px;
+  font-size: 12px;
+  border: 1px solid #ccc;
+}
+
+.btn {
+  background: #4183d7;
+  color: #fff;
+  border: none;
+  padding: 8px;
+  border-radius: 4px;
+  font-size: 12px;
+}

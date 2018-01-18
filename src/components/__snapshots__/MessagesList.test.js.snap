@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match its snapshot with messages 1`] = `
+<ul
+  className="message-list"
+>
+  <li
+    className="message"
+  >
+    <p />
+    <p
+      className="visibility"
+    >
+      public
+    </p>
+  </li>
+  <li
+    className="message"
+  >
+    <p />
+    <p
+      className="visibility"
+    >
+      public
+    </p>
+  </li>
+  <li
+    className="message"
+  >
+    <p />
+    <p
+      className="visibility"
+    >
+      public
+    </p>
+  </li>
+</ul>
+`;

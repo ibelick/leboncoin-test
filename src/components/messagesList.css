@@ -1,0 +1,16 @@
+ul li {
+  list-style: none;
+}
+
+.message-list  {
+  width: 540px;
+}
+
+.message {
+  text-align: justify;
+  margin: 40px 0;
+}
+
+.visibility {
+  margin-top: 10px;
+}
